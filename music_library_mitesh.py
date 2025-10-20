@@ -209,9 +209,8 @@ def main_menu():
         else:
             print("Invalid choice, try again.\n")
 
-# ===============================
 # Run the program
-# ===============================
+# -----------------------------
 
 if __name__ == "__main__":
     main_menu()
